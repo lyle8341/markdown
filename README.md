@@ -14,6 +14,9 @@ markdown
 -
 markdown
 -----
+
+* * *
+
 *斜体*
 _斜体_
 
@@ -28,9 +31,13 @@ __加粗__
 2. Oracle
 3. HBase
 
+* * *
+
 [百度](https://www.baidu.com)
 
 ![狮子](http://mouapp.com/Mou_128.png)
+
+* * *
 
 ```
 public class Hello{
@@ -40,17 +47,14 @@ public class Hello{
 }
 ```
 
+* * *
+
 <span style="color:red;font-size:30px">
     九霄龙云惊天变
 </span>
 
----
-
-~~删除线的效果~~
-
 * * *
-
-----------------------------
+~~删除线的效果~~
 |   tomcat   |   apache   |   nginx   |
 |:------|:-----:|------:|
 |      1     |      2     |     3     |
