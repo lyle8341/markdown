@@ -1,4 +1,5 @@
-
+People
+---
 :bowtie:
 :smile:
 :simple_smile:
@@ -193,8 +194,9 @@
 :rage4:
 :suspect:
 :trollface:
-Nature
 
+Nature
+---
 :sunny:
 :umbrella:
 :cloud:
@@ -310,8 +312,9 @@ Nature
 :partly_sunny:
 :octocat:
 :squirrel:
-Objects
 
+Objects
+---
 :bamboo:
 :gift_heart:
 :dolls:
@@ -572,8 +575,9 @@ Objects
 :eggplant:
 :tomato:
 :corn:
-Places
 
+Places
+---
 :house:
 :house_with_garden:
 :school:
@@ -680,8 +684,9 @@ Places
 :gb:
 :uk:
 :de:
-Symbols
 
+Symbols
+---
 :one:
 :two:
 :three:
