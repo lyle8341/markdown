@@ -4,7 +4,7 @@ how to use markdown
 ###  三级标题  ###
 ###### 六级标题
 
-<a name = "jump">12306</a>
+<a id = "jump">12306</a>
 
 ---
 
