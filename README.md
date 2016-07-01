@@ -3,7 +3,9 @@ how to use markdown
 ## 二级标题
 ###  三级标题  ###
 ###### 六级标题
-[你的银行卡号密码是](#jump)
+
+<span id = "jump">12306</span>
+
 ---
 
 markdown
@@ -70,5 +72,4 @@ public class Hello{
 |     a      |     b      |     c     |
 |     x      |      y     |     z     |
 
-
-<span id = "jump">12306</span>
+[你的银行卡号密码是](#jump)
