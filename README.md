@@ -23,6 +23,9 @@ _斜体_
 **加粗**
 __加粗__
 
+<font face="微软雅黑" color="red" size="6">字体及字体颜色和大小</font>
+
+
 * Java
   * j2ee
   * j2se
@@ -75,7 +78,6 @@ public class Hello{
 >引用
 
 复选框
--
 - [x] java
 - [x] php
 - [x] .net
