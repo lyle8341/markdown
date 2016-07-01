@@ -883,8 +883,9 @@ Symbols
 :small_red_triangle:
 :small_red_triangle_down:
 :shipit:
-Campfire also supports a few sounds
 
+Campfire also supports a few sounds
+---
 ?
 /play secret
 ?
@@ -981,4 +982,3 @@ Campfire also supports a few sounds
 /play flawless
 ?
 /play butts
-This
