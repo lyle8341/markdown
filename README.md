@@ -4,10 +4,9 @@ how to use markdown
 ###  三级标题  ###
 ###### 六级标题
 
-12306
--
+<span id="anchor">12306</span>
 
----
+* * *
 
 markdown
 =
