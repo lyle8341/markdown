@@ -24,6 +24,8 @@ _斜体_
 __加粗__
 
 * Java
+  * j2ee
+  * j2se
 + C++
 - Php
 
@@ -33,9 +35,10 @@ __加粗__
 
 * * *
 
-[百度](https://www.baidu.com)
+[百度](https://www.baidu.com "百度一下，你就知道")
 
-![狮子](http://mouapp.com/Mou_128.png)
+![Markdown图标](http://mouapp.com/Mou_128.png)
+
 
 * * *
 
