@@ -40,16 +40,11 @@ __加粗__
 [百度](https://www.baidu.com "百度一下，你就知道")
 
 ##### 引用外部图片
-![Markdown图标](http://mouapp.com/Mou_128.png)<br>
-
+![Markdown图标](http://mouapp.com/Mou_128.png)
 ##### 本仓库图片
-![狮子](/images/lion.jpg "狮子")<br>
-
-
+![狮子](/images/lion.jpg "狮子")
 ##### 其他仓库图片
-
-
-
+![guodongxiaren](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif "来自guodongxiaren的git仓库")
 
 <867708794@qq.com>
 
