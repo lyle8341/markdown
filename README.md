@@ -27,6 +27,8 @@ __加粗__
   * j2ee
   * j2se
 + C++
+  * C1
+  * C2
 - Php
 
 1. Mysql
