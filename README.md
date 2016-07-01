@@ -4,7 +4,7 @@ how to use markdown
 ###  三级标题  ###
 ###### 六级标题
 
-<a id = "jump">12306</a>
+<a name="anchor">12306</a>
 
 ---
 
@@ -72,4 +72,4 @@ public class Hello{
 |     a      |     b      |     c     |
 |     x      |      y     |     z     |
 
-[火车票](#jump)
+[火车票](#anchor)
