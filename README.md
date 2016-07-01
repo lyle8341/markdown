@@ -4,7 +4,7 @@ how to use markdown
 ###  三级标题  ###
 ###### 六级标题
 
-<span id = "jump">12306</span>
+<span name = "jump">12306</span>
 
 ---
 
