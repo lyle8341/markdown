@@ -60,13 +60,6 @@ public class Hello{
 
 * * *
 
-<span style="color:red;font-size:30px">
-    九霄龙云惊天变
-</span>
-
-<font face="微软雅黑" color="red" size="6">字体及字体颜色和大小</font>
-
-* * *
 ~~删除线的效果~~
 
 * * *
